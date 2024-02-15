@@ -24,7 +24,7 @@ export default function Hero() {
       <div className='md:flex justify-between my-24 pt-24 lg:pt-32 md:pb-10 mb-2 md:mx-12'>
         <div className='w-5/6 md:w-full space-y-6 mx-auto self-center'>
           <h1 className='text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-center md:text-left font-extrabold'>
-            Ace Your JAMB!
+            Find Your Dream Course!
           </h1>
           <p className={`text-center md:text-left mx-auto lg:m-0 w-full py-2 font-medium leading-7 sm:leading-9 ${styles.fontsizelg}`}>
             Practice your JAMB Computer Based Test, and put yourself ahead in the game. With a wide range of 17 subjects
