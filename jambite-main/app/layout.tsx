@@ -3,7 +3,7 @@ import { Assistant } from 'next/font/google';
 import { Providers } from '@/components';
 
 export const metadata = {
-  title: 'Jambite - Ace Your JAMB!',
+  title: 'Jambite - Find Your Dream Course!',
   description: 'Practice your JAMB Computer Based Test, and put yourself ahead the game. With a wide range of 17 subjects available, Prepare effectively for your exams by accessing a comprehensive collection of over 20,000 past questions.',
 }
 
