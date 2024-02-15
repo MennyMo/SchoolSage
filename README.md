@@ -1,0 +1,2 @@
+# SchoolSage
+An hackathon project
